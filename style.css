@@ -91,7 +91,7 @@ p {
 
 .thirdd {
     position: absolute;
-    left: 230px;
+    left: 292px;
     bottom: auto;
     width: 480px;
     height: 3.5rem;
@@ -126,7 +126,7 @@ p {
 
 .get {
     position: relative;
-    right: -243px;
+    right: -221px;
     bottom: 0px;
     padding: 0.5rem 1.2rem;
     font-size: 1.5rem;
@@ -258,7 +258,7 @@ option {
 /* page 3 ended */
 .vid {
     position: relative;
-    width: 27%;
+    width: 25%;
     height: 72%;
     grid-column: 2/2;
     grid-row: 1/2;
