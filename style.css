@@ -177,7 +177,7 @@ option {
     margin-left: 36rem;
     margin-top: -19rem;
     height: 23rem;
-    width: 31rem;
+    width: 30rem;
 }
 
 .video-1 {
@@ -258,7 +258,7 @@ option {
 /* page 3 ended */
 .vid {
     position: relative;
-    width: 29%;
+    width: 27%;
     height: 72%;
     grid-column: 2/2;
     grid-row: 1/2;
